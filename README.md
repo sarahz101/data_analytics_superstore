@@ -1,6 +1,6 @@
 # Superstore Data Analysis
 
-**Google Colab Project:** [Open in Google Colab](https://colab.research.google.com/drive/1ELinBXBN5KIVdvGkbG3U15CFCoDDWMP_?usp=sharing)
+**Google Colab Project:** https://colab.research.google.com/drive/1TTPpaI3pOpK1ccdMzjNzoLHlcdxKhwun#scrollTo=MyZQcUnGQ41I
 
 ## Project Overview
 
